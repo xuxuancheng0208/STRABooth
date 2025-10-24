@@ -19,14 +19,14 @@
 <p align="center">
   <a href='https://strabooth.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
   &nbsp;
-  <a href=""><img src="https://img.shields.io/static/v1?label=Arxiv&message=CamCloneMaster&color=red&logo=arxiv"></a>
+  <a href=""><img src="https://img.shields.io/static/v1?label=Arxiv&message=STRABooth&color=red&logo=arxiv"></a>
   &nbsp;
   <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange'></a>
 </p>
 
 ## 🔥 Updates
 
-## 🔥 Setup
+## ⚙️ Setup
 ####  Step 1: Set up the environment
 ```python
 conda create -n straboothwan python=3.11
