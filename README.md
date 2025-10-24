@@ -6,10 +6,12 @@
 
 <div align="center">
   <p>
-    <a href="https://xuxuancheng0208.github.io/">XuanchengXu</a><sup>1</sup>
+    <a href="https://xuxuancheng0208.github.io/">Xuancheng Xu</a><sup>1</sup>
+    <a href="https://www.scholat.com/bkbao.en">Bing-kun Bao</a><sup>1,2✉</sup>
   </p>
   <p>
     <sup>1</sup>Nanjing University of Posts and Telecommunications &nbsp;&nbsp;
+    <sup>2</sup>Peng Cheng Laboratory &nbsp;&nbsp;
     <sup>✉</sup>Corresponding author
   </p>
 </div>
