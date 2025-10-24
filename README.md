@@ -35,6 +35,10 @@ conda create -n straboothwan python=3.11
 conda activate straboothwan
 conda install pytorch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 pytorch-cuda=12.1 -c pytorch -c nvidia
 pip install -r requirements.txt
+
+git+https://github.com/modelscope/DiffSynth-Studio.git@v1.1.7
+cd DiffSynth-Studio
+pip install -e .
 ```
 ####  Step 2: Download the pretrained checkpoint for WAN2.1 1.3B
 
