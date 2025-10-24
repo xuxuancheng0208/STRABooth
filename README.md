@@ -40,7 +40,9 @@ git+https://github.com/modelscope/DiffSynth-Studio.git@v1.1.7
 cd DiffSynth-Studio
 pip install -e .
 ```
-####  Step 2: Download the pretrained checkpoint for WAN2.1 1.3B
+####  Step 2: Download the pretrained checkpoint
+
+####  Step 3: Prepare the customized datasets for subject and video
 
 
 
