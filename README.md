@@ -23,3 +23,16 @@
   &nbsp;
   <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange'></a>
 </p>
+
+## 🔥 Updates
+
+## 🔥 Setup
+####  Step 1: Set up the environment
+```python
+conda create -n straboothwan python=3.11
+conda activate straboothwan
+```
+####  Step 2: Download the pretrained checkpoint for WAN2.1 1.3B
+
+
+
