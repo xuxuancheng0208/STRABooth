@@ -2,7 +2,7 @@
     <img src="asserts/title.png"  width="70%" >
 </p>
 
-# <div align="center" >Spatial-Temporal Representation Alignment for Customized Video Generation<div align="center">
+# <div align="center" >Subject-Motion Representation Alignment for Customized Video Generation<div align="center">
 
 <div align="center">
   <p>
@@ -19,9 +19,9 @@
 <br>
 
 <p align="center">
-  <a href='https://strabooth.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+  <a href='https://smrabooth.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
   &nbsp;
-  <a href=""><img src="https://img.shields.io/static/v1?label=Arxiv&message=STRABooth&color=red&logo=arxiv"></a>
+  <a href=""><img src="https://img.shields.io/static/v1?label=Arxiv&message=SMRABooth&color=red&logo=arxiv"></a>
   &nbsp;
   <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange'></a>
 </p>
@@ -31,8 +31,8 @@
 ## ⚙️ Setup
 ####  Step 1: Set up the environment
 ```python
-conda create -n straboothwan python=3.10.18
-conda activate straboothwan
+conda create -n smraboothwan python=3.10.18
+conda activate smraboothwan
 conda install pytorch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 pytorch-cuda=12.1 -c pytorch -c nvidia
 pip install -r requirements.txt
 
