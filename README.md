@@ -7,7 +7,9 @@
 <div align="center">
   <p>
     <a href="https://xuxuancheng0208.github.io/">Xuancheng Xu</a><sup>1</sup>
-    <a href="https://www.scholat.com/bkbao.en">Bing-kun Bao</a><sup>1,2✉</sup>
+    <a href="">Yaning Li</a><sup>1</sup>
+    <a href="">Sisi You</a><sup>1,✉</sup>
+    <a href="https://www.scholat.com/bkbao.en">Bing-Kun Bao</a><sup>1,2</sup>
   </p>
   <p>
     <sup>1</sup>Nanjing University of Posts and Telecommunications &nbsp;&nbsp;
@@ -27,6 +29,8 @@
 </p>
 
 ## 🔥 Updates
+
+## 🎯 To do List
 
 ## ⚙️ Setup
 ####  Step 1: Set up the environment
